@@ -1,0 +1,79 @@
+body {
+  background: url("../images/background-pattern.png");
+  background-repeat: repeat;
+}
+
+nav ul li {
+  margin-left: 0.5rem;
+  float: left;
+}
+
+div ul li {
+  margin-left: 0.5rem;
+  float: left;
+}
+
+p {
+  padding: 0.75rem 0.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #65a9ff;
+}
+
+footer {
+  color: white;
+  background: #273649;
+  padding: 0.5em;
+}
+
+.profile {
+  border-style: solid;
+  text-align: center;
+  padding: 2rem 0 0 0;
+}
+
+.profile img {
+  padding: 0.5rem;
+  outline: 0.5px solid gray;
+}
+
+#logo-container{
+  background: url("../images/header-background.png");
+  background-repeat: repeat;
+}
+
+#top-container {
+  background: url("../images/header-background.png");
+  background-repeat: repeat;
+  color: white;
+  padding: 0.5em;
+  height: 1rem;
+}
+
+#bottom-container {
+  background: #273649;
+  padding: 0.5em;
+  height: 1rem;
+}
+
+#contenedor {
+  outline: solid;
+  margin: 1em 4em;
+}
+
+#top-nav {
+  background: #273649;
+  padding: 0.5em;
+  height: 1rem;
+}
+
+#bottom-nav {
+  background: #dae0e9;
+  padding: 0.5em;
+  height: 1rem;
+}
